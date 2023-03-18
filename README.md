@@ -1,3 +1,4 @@
+[READ.ME.docx](https://github.com/ajaloons/CIND820_CAPSTONE/files/11007583/READ.ME.docx)
 # CIND820_CAPSTONE
 
 PRELIMINARY STATISTICS
